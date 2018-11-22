@@ -1,4 +1,4 @@
-#React Gallery App
+# React Gallery App
 
 This app uses the Flickr API to demo a single page website using React, React Router, Axios API to browse and search a gallery of photos.
 
