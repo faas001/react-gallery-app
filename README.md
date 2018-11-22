@@ -1,3 +1,10 @@
+#React Gallery App
+
+This app uses the Flickr API to demo a single page website using React, React Router, Axios API to browse and search a gallery of photos.
+
+This is part of the fullstack JavaScript Techdegree program from Treehouse.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
